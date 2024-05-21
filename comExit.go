@@ -5,7 +5,7 @@ import (
 	"os"
 )
 
-func callExit() error {
+func callExit(nul string) error {
 	os.Exit(0)
 
 	return errors.New("program not terminate")

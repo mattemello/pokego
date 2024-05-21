@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func callHelp() error {
+func callHelp(nul string) error {
 
 	fmt.Println()
 	fmt.Println("the commands are: ")
