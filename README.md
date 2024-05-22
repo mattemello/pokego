@@ -23,3 +23,8 @@ you can start by typing `go build && ./pokego`
 `inspect [name pokemon]` -> display the stats of the pokemon.
 
 `pokedex` -> display all the pokemon that you have catch.
+
+
+## credits
+
+the project ispiration is from boot.dev
